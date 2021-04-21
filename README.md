@@ -1,1 +1,1 @@
-# PythonSmallScripts
+# PythonScriptsAndSmallProjects 
